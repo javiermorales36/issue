@@ -5,7 +5,6 @@
 ```
 Package: python-jose
 Versions: 3.3.0 - 3.5.0
-Repository: https://github.com/moxie/python-jose
 ```
 
 ## Known CVEs
